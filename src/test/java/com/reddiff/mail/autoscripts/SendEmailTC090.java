@@ -41,7 +41,7 @@ public class SendEmailTC090 {
 		Thread.sleep(5000);
 		
 		hp.getLogoutLink().click();
-		System.out .println("hi   ");
+		System.out .println("hi");
 		
 		driver.quit();		
 	}

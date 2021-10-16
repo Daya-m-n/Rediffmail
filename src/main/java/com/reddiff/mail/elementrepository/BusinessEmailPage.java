@@ -7,5 +7,5 @@ public class BusinessEmailPage extends BasePage {
 		super(driver);
 		
 	}
-	//System
+	
 }
